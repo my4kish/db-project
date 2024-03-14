@@ -1,1 +1,2 @@
-# db-project
+# first project (CINEMA)
+NODE JS + PSQL
